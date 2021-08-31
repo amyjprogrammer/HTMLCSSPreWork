@@ -1,0 +1,32 @@
+/* for Testing*/
+/*body{
+    background-color: blue;
+}*/
+
+/* rule-set #1 */
+#number-one{
+    color: red;
+}
+
+/* rule-set #2 */
+#number-two{
+    font-size: 16px;
+    animation: blinking 2.5s infinite;
+}
+@keyframes blinking{
+0%{   color: rgb(25, 0, 255);   }
+47%{   color: #762b94; }
+62%{   color: #ff00dd; }
+97%{   color:transparent; }
+100%{  color: #000;   }
+}
+
+/* rule-set #3 */
+.first-class{
+    color: green;
+}
+
+/* rule-set #4 */
+.second-class{
+    font-size: 24px;
+}
