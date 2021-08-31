@@ -1,0 +1,10 @@
+body {
+    background-color: #3ba021;
+}
+
+.wrapper {
+    border: 5px solid red;
+    padding: 5px;
+}
+
+/* This is a CSS comment */
